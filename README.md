@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi there, I'm <strong>Mohammed ⠕</strong></h1>
+<p align="center">I lost my access to my old GitHub Account, so I'm starting over again. Past projects will be listed in my previous account. <a href="https://github.com/MohammedSharaki">Check my previous account</a></p>
 <h3 align="center">🎓 20 years old • 📚 Student at <strong>ODTÜ</strong></h3>
 
 <!-- About Me Section -->
