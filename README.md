@@ -6,7 +6,7 @@
 <div align="left">
   <ul>📊 I'm majoring in <strong>Statistics</strong></ul>
   <ul>💻 I’m passionate about <strong>Competitive Programming</strong></ul>
-  <ul>👨‍🏫 In 2023, I taught programming to <strong>100+ high school students</strong></ul>
+  <ul>👨‍🏫 In 2023, I taught programming to <strong>100+ high school students</strong>, me and my freinds did win the compitiion</ul>
 </div>
 
 <!-- Content Creator Section -->
